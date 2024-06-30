@@ -59,7 +59,7 @@ These components were built with a **free Material Design UI Kit for the latest 
 
 <h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/content-styles/colors/">Colors</a></h5>
 
-<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/content-styles/icons/">Icons</a></h5>
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/content-styles/shadows/">Shadows</a></h5>
 
 <h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/content-styles/typography/">Typography</a></h5>
 
